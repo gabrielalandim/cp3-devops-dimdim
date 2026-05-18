@@ -387,7 +387,7 @@ docker volume rm volume_db_dimdim
 
 A implantação e validação completa do projeto foram gravadas e estão disponíveis no link abaixo:
 
-📺 **[Assista à demonstração no YouTube](https://youtu.be/Q_YjE9Jgadk)**
+📺 **[Assista à demonstração no YouTube](https://youtu.be/rnluPW2Bnoc?feature=shared)**
 
 ---
 
