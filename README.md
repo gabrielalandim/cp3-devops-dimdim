@@ -403,6 +403,6 @@ A implantação e validação completa do projeto foram gravadas e estão dispon
 
 <div align="center">
 
-Feito com 💜 por **Maria Gabriela Landim Severo** e **Samara Porto de Oliveira** — FIAP 2025
+Feito com 💜 por **Maria Gabriela Landim Severo** e **Samara Porto** — FIAP 2025
 
 </div>
